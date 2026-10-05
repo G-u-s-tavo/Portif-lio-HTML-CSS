@@ -183,6 +183,7 @@ p {
 .botao-claro {
   background: var(--creme);
   color: var(--marrom);
+  transition: 0.2s;
 }
 
 .secao {
