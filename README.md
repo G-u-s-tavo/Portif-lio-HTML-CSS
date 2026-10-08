@@ -1,8 +1,11 @@
 ☭ Trabalho de HTML/CSS — Portfólio
 
 Aluno: Luiz Gustavo Gonçalves dos Santos
+
 Curso: Informática 1
+
 Disciplina: HTML/CSS
+
 Professora: Israely Lima
 
 ---
