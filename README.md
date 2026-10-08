@@ -5,6 +5,8 @@ Curso: Informática 1
 Disciplina: HTML/CSS
 Professora: Israely Lima
 
+---
+
 📚 Sobre o projeto
 
 Este projeto consiste no desenvolvimento de um site com finalidade didática, criado como atividade da disciplina de HTML/CSS.
@@ -12,6 +14,8 @@ Este projeto consiste no desenvolvimento de um site com finalidade didática, cr
 O objetivo é colocar em prática os conhecimentos aprendidos durante as aulas, utilizando HTML para estruturar o conteúdo e CSS para desenvolver a apresentação visual, o layout e a identidade do site.
 
 O projeto apresenta um pequeno portfólio pessoal, reunindo informações sobre mim, minha trajetória, meus amigos, ferramentas que utilizo e formas de contato.
+
+---
 
 🌿 Estrutura
 
@@ -22,10 +26,14 @@ O site é composto por diferentes páginas:
 - Ferramentas — tecnologias e ferramentas que fazem parte dos meus estudos;
 - Contato — formas de entrar em contato comigo.
 
+---
+
 💻 Tecnologias utilizadas
 
 - HTML5
 - CSS3
+
+---
 
 🎨 Identidade visual
 
