@@ -74,7 +74,7 @@ p {
 
 .cabecalho {
   background: var(--verde-praying);
-  border-bottom: 4px solid var(--dourado);
+  border-bottom: 6px dotted var(--dourado);
   padding: 18px 0;
   position: sticky;
   top: 0;
